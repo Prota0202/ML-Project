@@ -1,0 +1,14 @@
+# Smart School ECAM 2026 - Python 3.11+
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+seaborn>=0.13
+torch>=2.1
+tqdm>=4.66
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.0
+nbconvert>=7.0
+nbformat>=5.10
